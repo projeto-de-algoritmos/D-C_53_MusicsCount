@@ -10,7 +10,7 @@
 
 
 ## Sobre 
-MusicsCount é um projeto simples feito em java que busca desmonstrar o funcionamento do algoritmo de contagem de inversões aprendido em sala durante a disciplina de Projeto e Analisa de Algoritmos na UnB, nele há uma lista com várias pessoas com gostos músicais diferentes, após preencher uma lista com seu própio gosto músical, é mostrado quais pessoas tem o gosto mais semelhante ao seu em ordem crescente.
+MusicsCount é um projeto simples feito em java que busca desmonstrar o funcionamento do algoritmo de contagem de inversões aprendido em sala durante a disciplina de Projeto e Analise de Algoritmos na UnB, nele há uma lista com várias pessoas com gostos músicais diferentes, após preencher uma lista com seu própio gosto músical, é mostrado quais pessoas tem o gosto mais semelhante ao seu em ordem crescente.
 
 ## Screenshots
 ![escolha](https://github.com/projeto-de-algoritmos/D-C_53_MusicsCount/assets/79341819/3a6c6983-f4fa-43e8-8bd7-616bc00c2e17)
